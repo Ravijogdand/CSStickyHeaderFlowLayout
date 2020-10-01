@@ -1,5 +1,5 @@
 # Change Log
-
+## [0.2.7](https://github.com/jamztang/CSStickyHeaderFlowLayout/tree/2.2.7) (2015-06-05)
 ## [0.2.7](https://github.com/jamztang/CSStickyHeaderFlowLayout/tree/0.2.7) (2015-06-05)
 
 [Full Changelog](https://github.com/jamztang/CSStickyHeaderFlowLayout/compare/0.2.6...0.2.7)

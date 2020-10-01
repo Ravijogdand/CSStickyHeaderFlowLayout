@@ -1,6 +1,6 @@
 # CSStickyHeaderFlowLayout
 
-## Contributors
+## Contributors and new link
 
 For anyone who'd like to be a contributor to the repository, please read the [Contribution Guideline](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout/wiki/Contribution-Guidelines)
 
